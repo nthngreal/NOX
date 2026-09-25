@@ -7,7 +7,10 @@ Windows-додаток для синтезу українського мовле
 
 [**Завантажити NØX 1.2 →**](https://github.com/nthngreal/NOX/releases/latest)
 
-![NØX — головне вікно](docs/images/nox-main.png)
+<div align="center">
+  <img src="docs/images/nox-voice.png" alt="NØX — голос" width="48%">
+  <img src="docs/images/nox-subtitles.png" alt="NØX — субтитри" width="48%">
+</div>
 
 ---
 
