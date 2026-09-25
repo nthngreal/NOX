@@ -7,6 +7,8 @@ Windows-додаток для синтезу українського мовле
 
 [**Завантажити NØX 1.2 →**](https://github.com/nthngreal/NOX/releases/latest)
 
+![NØX — головне вікно](docs/images/nox-main.png)
+
 ---
 
 ## Що таке NØX?
